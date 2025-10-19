@@ -1,0 +1,4 @@
+Capital: Brasilia
+Language: Portuguese
+Population: 203,060,756
+Currency: BRL

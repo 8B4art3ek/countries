@@ -5,3 +5,4 @@ Currency: EGP
 Internet: .eg 
 Calling code: +20
 Drives on: right
+Flag: https://en.wikipedia.org/wiki/Egypt#/media/File:Flag_of_Egypt.svg
